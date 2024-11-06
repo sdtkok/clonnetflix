@@ -9,7 +9,7 @@ body{
 }
 .main{
     height: 644px;
-    background-image: url(./TR-tr-20231120-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+    background-image: url(./img/TR-tr-20231120-popsignuptwoweeks-perspective_alpha_website_large.jpg);
     background-position: center center;
     background-size: max(1200px,100vw);
     background-repeat: no-repeat;
